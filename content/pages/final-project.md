@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on final project deliverables, assessment
+  guidelines, and links to useful resources for completion of the project.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

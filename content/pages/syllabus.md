@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, intended learning outcomes, requirements, grading, readings, required
+  text, attendance and class participation policy, late assignment policy, collaboration
+  policy, electronic device policy, academic integrity, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -108,7 +112,7 @@ Final oral presentation (plus summary and annotated bibliography)
 Readings
 --------
 
-All reading assignments are provided in the [readings]({{< baseurl >}}/pages/readings) section.
+All reading assignments are provided in the {{% resource_link 2fefbaf3-e4e7-16a1-66d6-d0d7b1045415 "readings" %}} section.
 
 Required Text
 -------------
