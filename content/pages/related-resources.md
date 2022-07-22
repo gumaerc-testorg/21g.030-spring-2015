@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides links to online resources on East Asian culture.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: a7f80cb6-6c7b-5047-b2f1-8906f82409cf
 ---
