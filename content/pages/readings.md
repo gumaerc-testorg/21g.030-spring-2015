@@ -107,7 +107,7 @@ Readings: Combined with Readings for Session 13
 
 Chang, K. C. "[Food in Chinese Culture](http://asiasociety.org/blog/asia/food-chinese-culture?page=0,0)." Asia Society Blog.
 
-Cooper, E. ["Chinese Table Manners: You Are How You Eat." (PDF)](http://www.cynthiaclarke.com/anth116/116_readings/You_are_how_you_eat.pdf) *Human Organization* 45, no. 2 (1986): 179–84.
+Cooper, E. ["Chinese Table Manners: You Are How You Eat." (PDF)](https://web.archive.org/web/20150501083925/http://www.cynthiaclarke.com/anth116/116_readings/You_are_how_you_eat.pdf) *Human Organization* 45, no. 2 (1986): 179–84.
 
 ### Japan:
 
@@ -133,7 +133,7 @@ n/a
 
 Readings: Combined with Readings from Session 11
 
-Watson, James. ["Prosperity Versus Pathology: A Social History of Obesity in China." (PDF)](http://web.mit.edu/lipoff/www/hapr/fall01_health/prosperity.pdf) *Harvard Asia Pacific Review*, 2000.
+Watson, James. ["Prosperity Versus Pathology: A Social History of Obesity in China." (PDF)](https://web.archive.org/web/20151124155339/http://web.mit.edu/lipoff/www/hapr/fall01_health/prosperity.pdf) *Harvard Asia Pacific Review*, 2000.
 
 Alison, Anne. "Japanese Mothers and Obentos: The Lunch-Box as Ideological State Apparatus." *Anthropological Quarterly* 64, no. 4 (1991): 195–208.
 

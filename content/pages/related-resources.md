@@ -1,14 +1,13 @@
 ---
 content_type: page
 description: This section provides links to online resources on East Asian culture.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: a7f80cb6-6c7b-5047-b2f1-8906f82409cf
 ---
-
-Chronologies
-------------
+## Chronologies
 
 [Chronology of Chinese Dynasties](http://afe.easia.columbia.edu/timelines/china_timeline.htm#Chinese%20History)
 
@@ -18,10 +17,9 @@ Chronologies
 
 [Timeline of Chinese Inventions](http://afe.easia.columbia.edu/song/readings/inventions_timeline.htm)
 
-Supplemental Resources to Session 10–13
----------------------------------------
+## Supplemental Resources to Session 10–13
 
-Simoons, Frederick J. "Food in Chinese Thought and Culture." Chapter 1 in _Food in China: A Cultural and Historical Inquiry_. CRC Press, 1990, pp. 13–37. ISBN: 9780849388040. \[Preview with [Google Books](http://books.google.com/books?id=Fo087ZxohA4C&pg=PA13=onepage)\]
+Simoons, Frederick J. "Food in Chinese Thought and Culture." Chapter 1 in *Food in China: A Cultural and Historical Inquiry*. CRC Press, 1990, pp. 13–37. ISBN: 9780849388040. \[Preview with [Google Books](http://books.google.com/books?id=Fo087ZxohA4C&pg=PA13=onepage)\]
 
 北海道グルメ動画【GouTube北海道】. "[Edo Sushi Video](https://www.youtube.com/watch?v=DcpyDgb_g1E)." August 19, 2013. YouTube.
 
@@ -33,7 +31,7 @@ Arirang Culture. "[Tales of Hansik – Kimchee](https://www.youtube.com/watch?v=
 
 The Fishy Channel. "[Tsukiji Fish Market](https://www.youtube.com/watch?v=NqbWUO5_MeU&feature=youtu.be)." November 4, 2014. YouTube.
 
-[Revenge Bento 1](http://m-miya.net/blog/single-mother-bento.html)
+[Revenge Bento 1](https://web.archive.org/web/20150207101136/http://m-miya.net/blog/single-mother-bento.html)
 
 [Revenge Bento 2](http://www.iromegane.com/entertainment/foods/the-japanese-wives-revenge-bento-after-the-fight-shikaeshi-bento/)
 
@@ -41,8 +39,7 @@ The Fishy Channel. "[Tsukiji Fish Market](https://www.youtube.com/watch?v=NqbWUO
 
 [Japanese Moms Stress over Bento](http://www.iromegane.com/entertainment/foods/japanese-mums-get-stressed-about-making-obento/)
 
-Other Resources
----------------
+## Other Resources
 
 amitaba3. "[Heart Sutra Korean](https://www.youtube.com/watch?v=rbE2ZLEJbn0&feature=youtu.be&list=PLulkGJECRCZCThpYm5U91MnCIgaFkHCi1)." June 17, 2011. YouTube.
 
