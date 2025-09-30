@@ -42,6 +42,6 @@ Bibliographic and citation skills—were all sources properly cited in the execu
 Other Useful Resources for the Completion of the Final Project
 --------------------------------------------------------------
 
-[Mayfield Guide to Executive Summary](http://www.mhhe.com/mayfieldpub/tsw/abstract.htm)
+{{% resource_link "4c711f9c-3f5e-4498-b162-ea52a99a762e" "Mayfield Guide to Executive Summary" %}}
 
-[Citation Quick Guide](http://www.chicagomanualofstyle.org/tools_citationguide.html)
+{{% resource_link "d9d7ad3a-2f96-484a-a105-3f443d715130" "Citation Quick Guide" %}}
